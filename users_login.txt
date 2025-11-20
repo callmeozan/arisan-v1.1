@@ -1,0 +1,7 @@
+Admin
+username = faozan
+password = 12345
+
+User
+username = (nama panggilan)
+password = (nama panggilan)
